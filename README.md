@@ -1,4 +1,9 @@
-
+# 사이트 시연 영상
+[사이트 시연 영상 바로가기 (YouTube)](https://youtu.be/hXwrj8Rhu60) 
+<br>
+<br>
+![포켓몬 썸네일](https://github.com/user-attachments/assets/f395e930-d6ef-4811-bb8f-0a0cb0c1c559)
+    
 # 목차
 1. [사이트 기본 구성](https://github.com/yonggyo1125/project501_13_jsp?tab=readme-ov-file#%EC%B4%88%EA%B8%B0-%EC%84%A4%EC%A0%95)
 2. [게시판 만들기](https://github.com/yonggyo1125/project501_13_jsp/tree/board)
